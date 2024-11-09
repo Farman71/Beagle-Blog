@@ -1,0 +1,24 @@
+.top-section{border: 2px solid;
+                padding:0px 0px 15px 10px ;}
+
+a{font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing:1px;}
+
+img{width: 500px;
+    height: 300px;}
+
+.paragraph{font-size: 18px;
+            font-family: Arial, Helvetica, sans-serif;}
+
+.trivia-section{padding:0px 0px 0px 10px ;}
+
+.image-section{padding:0px 0px 0px 10px ;}
+
+ol {padding:0px 0px 0px 20px ;
+        margin: 0px;
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;}
+
+h1{letter-spacing:1px;
+    font-family: Arial, Helvetica, sans-serif;}
